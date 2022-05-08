@@ -15,11 +15,12 @@ I am Mithra M S,   Devops Engineer
 <img src="https://img.shields.io/badge/mysql-yellogreen?style=for-the-badge&logo=mysql&logoColor=yellogreen" alt="mysql"/>
 </div>
 
-
+```
 ---
 - Name: Mithra M S
   hosts: GitHub
   become: true
+  
     - Cloud platform:
         - AWS Cloud
     - Operating Systems:
@@ -43,5 +44,5 @@ I am Mithra M S,   Devops Engineer
     - Monitoring Tools:
         - AWS CloudWatch
         - Nagios
-      
+   ```
     
