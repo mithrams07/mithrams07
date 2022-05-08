@@ -32,7 +32,6 @@ I am Mithra M S,   Devops Engineer
     - Infrastucture As a Code:
         - Terraform
         - Ansible
-        - AWS CloudFormation
     - Software Provisioning/Configuration Management:
         - Ansible
     - Source Code Management/Version Control:
