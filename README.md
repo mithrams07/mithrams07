@@ -11,7 +11,7 @@ I am Mithra M S,   Devops Engineer
 <img src="https://img.shields.io/badge/Ansible-yellow?style=for-the-badge&logo=Ansible&logoColor=yellow" alt="Ansible"/>
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=orange" alt="Git"/>
 <img src="https://img.shields.io/badge/nginx-brightgreen?style=for-the-badge&logo=nginx&logoColor=brightgreen" alt="nginx"/>
-<img src="https://img.shields.io/badge/apache-lightgrey?style=for-the-badge&logo=apache&logoColor=lightgrey" alt="apache"/>
+<img src="https://img.shields.io/badge/apache-lightgrey?style=for-the-badge&logo=apache&logoColor=blue" alt="apache"/>
 <img src="https://img.shields.io/badge/mysql-yellogreen?style=for-the-badge&logo=mysql&logoColor=yellogreen" alt="mysql"/>
 </div>
 
