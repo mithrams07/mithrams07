@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**mithrams07/mithrams07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mithra M S
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- Name: Mithra M S
+  hosts: GitHub
+  become: true
+    - Cloud platform:
+        - AWS Cloud
+    - Operating Systems:
+        - Ubuntu 
+        - CentOS 
+    - Scripting Languages:
+        - Bash
+        - Python    
+    - Infrastucture As a Code:
+        - Terraform
+        - Ansible
+        - AWS CloudFormation
+    - Software Provisioning/Configuration Management:
+        - Ansible
+    - Source Code Management/Version Control:
+        - Git (GitHub)
+    - Containerization:
+        - Docker
+    - Project Management Tool:
+        - GitHub
+    - Monitoring Tools:
+        - AWS CloudWatch
+        - Nagios
+      
+    
