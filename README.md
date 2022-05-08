@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mithra M S   Devops Engineer
+I am Mithra M S,   Devops Engineer
 
 
 <div id="badges">
